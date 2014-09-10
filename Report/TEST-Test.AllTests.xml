@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="exam" name="Test.AllTests" skipped="0" tests="3" time="36.655" timestamp="2014-09-10T05:26:05">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.JENKINS_SERVER_COOKIE" value="0859cf98cec294ab" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="start.time" value="09/10/2014 10:56 AM" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="test.reportsDir" value="D:\Eclipse workspace\Ant/Report" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_55\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_55\jre\classes" />
+    <property name="ws.home" value="D:\Eclipse workspace\Ant" />
+    <property name="env.COMPUTERNAME" value="EXAM" />
+    <property name="TODAY" value="September 10 2014" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\apache-ant-1.9.4" />
+    <property name="java.runtime.version" value="1.7.0_55-b13" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#14" />
+    <property name="env.HOMEPATH" value="\Users\Nexii" />
+    <property name="test.classpath" value="D:\jars\SaxonLiaison.jar:D:\jars\junit-4.11.jar:D:\jars\jxl-2.6.12.jar:D:\jars\log4j-1.2.17.jar:D:\jars\saxon-8.7.jar:D:\jars\selendroid-client-0.10.0.jar:D:\jars\selendroid-standalone-0.10.0-with-dependencies.jar:D:\jars\selenium-server-standalone-2.42.2.jar:D:\jars\testng-6.8.jar" />
+    <property name="user.name" value="Nexii" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_55\jre\bin" />
+    <property name="ant.project.default-target" value="usage" />
+    <property name="ant.project.name" value="Junit_Ant" />
+    <property name="DSTAMP" value="20140910" />
+    <property name="java.version" value="1.7.0_55" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 15 Stepping 13, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.NODE_NAME" value="master" />
+    <property name="env.TEMP" value="C:\Users\Nexii\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_55\jre\lib\endorsed" />
+    <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.7.0_55\bin\java.exe" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="US" />
+    <property name="env.BUILD_NUMBER" value="14" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_55\jre" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.ANDROID_HOME" value="D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;" />
+    <property name="env.APPDATA" value="C:\Users\Nexii\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="D:\Eclipse workspace\Ant\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env._USE_CLASSPATH" value="no" />
+    <property name="env.HUDSON_COOKIE" value="1def8cdc-c8f0-47e5-adaf-6c6667cc8638" />
+    <property name="path.separator" value=";" />
+    <property name="ant.file.Junit_Ant" value="D:\Eclipse workspace\Ant\build.xml" />
+    <property name="java.vm.version" value="24.55-b03" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\Nexii" />
+    <property name="ant.library.dir" value="C:\apache-ant-1.9.4\lib" />
+    <property name="env.JOB_NAME" value="jen" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.7.0_55" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\Nexii\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="env.HUDSON_URL" value="http://localhost:8080/" />
+    <property name="env.BUILD_TAG" value="jenkins-jen-14" />
+    <property name="user.home" value="C:\Users\Nexii" />
+    <property name="test.dest" value="D:\Eclipse workspace\Ant/build" />
+    <property name="env.JENKINS_HOME" value="C:\Users\Nexii\.jenkins" />
+    <property name="env.JOB_URL" value="http://localhost:8080/job/jen/" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.M2_HOME" value="C:\apache-maven-3.2.3" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="2" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_55\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.7.0_55/bin;C:\Program Files\Java\jdk1.7.0_55/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\apache-ant-1.9.4\bin;C:\apache-maven-3.2.3\bin;C:\Program Files\SlikSvn\bin;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\tools;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\platform-tools;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\apache-ant-1.9.4\bin;C:\apache-maven-3.2.3\bin;C:\Program Files\SlikSvn\bin;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\tools;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\platform-tools;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.HUDSON_HOME" value="C:\Users\Nexii\.jenkins" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="env.HUDSON_SERVER_COOKIE" value="0859cf98cec294ab" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.file.type.Junit_Ant" value="file" />
+    <property name="java.class.path" value="D:\Eclipse workspace\Ant\build;D:\jars\SaxonLiaison.jar;D:\jars\junit-4.11.jar;D:\jars\jxl-2.6.12.jar;D:\jars\log4j-1.2.17.jar;D:\jars\saxon-8.7.jar;D:\jars\selendroid-client-0.10.0.jar;D:\jars\selendroid-standalone-0.10.0-with-dependencies.jar;D:\jars\selenium-server-standalone-2.42.2.jar;D:\jars\testng-6.8.jar;C:\apache-ant-1.9.4\lib\ant-launcher.jar;C:\apache-ant-1.9.4\lib\ant.jar;C:\apache-ant-1.9.4\lib\ant-junit.jar;C:\apache-ant-1.9.4\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Test.AllTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\Eclipse workspace\Ant\Report\TEST-Test.AllTests.xml crashfile=D:\Eclipse workspace\Ant\junitvmwatcher8320821281590012721.properties propsfile=D:\Eclipse workspace\Ant\junit1025071388897571728.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="env.EXECUTOR_NUMBER" value="0" />
+    <property name="TSTAMP" value="1056" />
+    <property name="ws.jars" value="D:\jars" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.LOGONSERVER" value="\\EXAM" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="env.ANT_HOME" value="C:\apache-ant-1.9.4" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.BUILD_URL" value="http://localhost:8080/job/jen/14/" />
+    <property name="env.PROCESSOR_REVISION" value="0f0d" />
+    <property name="java.io.tmpdir" value="C:\Users\Nexii\AppData\Local\Temp\" />
+    <property name="test.src" value="D:\Eclipse workspace\Ant/src" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="os.arch" value="x86" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" -file build.xml compile run" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_55\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="env.=D:" value="D:\Eclipse workspace\Ant" />
+    <property name="env.BUILD_ID" value="2014-09-10_10-56-00" />
+    <property name="user.dir" value="D:\Eclipse workspace\Ant" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Nexii\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="env.JENKINS_URL" value="http://localhost:8080/" />
+    <property name="ANT" value="C:\apache-ant-1.9.4/bin/ant.bat" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:\Program Files\Java\jdk1.7.0_55/bin;C:\Program Files\Java\jdk1.7.0_55/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\apache-ant-1.9.4\bin;C:\apache-maven-3.2.3\bin;C:\Program Files\SlikSvn\bin;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\tools;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\platform-tools;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\apache-ant-1.9.4\bin;C:\apache-maven-3.2.3\bin;C:\Program Files\SlikSvn\bin;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\tools;D:\Selinium\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk;\platform-tools" />
+    <property name="basedir" value="D:\Eclipse workspace\Ant" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\apache-ant-1.9.4\lib\ant.jar" />
+    <property name="env.USERNAME" value="Nexii" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.WORKSPACE" value="C:\Users\Nexii\.jenkins\workspace\jen" />
+    <property name="env.USERDOMAIN" value="exam" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="compile,run" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+    <property name="env.NODE_LABELS" value="master" />
+  </properties>
+  <testcase classname="Test.FbTest" name="test03" time="14.417" />
+  <testcase classname="Test.Gmailtest" name="test02" time="11.128" />
+  <testcase classname="Test.Yahootest" name="test01" time="10.705" />
+  <system-out><![CDATA[Welcome to Facebook - Log In, Sign Up or Learn More
+Gmail - Email from Google
+Yahoo India
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver (v2.9.248315) on port 33491
+log4j:WARN No appenders could be found for logger (org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Starting ChromeDriver (v2.9.248315) on port 29401
+Starting ChromeDriver (v2.9.248315) on port 43352
+]]></system-err>
+</testsuite>
